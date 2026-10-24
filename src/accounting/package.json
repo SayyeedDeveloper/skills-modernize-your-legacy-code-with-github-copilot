@@ -1,0 +1,17 @@
+{
+  "name": "student-accounting",
+  "version": "1.0.0",
+  "description": "Node.js port of the COBOL student account management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
